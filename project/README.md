@@ -1,1 +1,13 @@
-Можно открыть [схему в Miro](https://miro.com/welcomeonboard/b1VaSDdsdWpZcHl1NXBKZVBVYlRrbDBHYlZsZ2V0akgzTVZhQlRFT0Fzbml5OGkzYlVNZDVaOGJrQ0dleTYwbHwzNDU4NzY0NTIyODU3ODYzODU2?share_link_id=811292784935) или посмотреть скрины в этой репе.
+# Можно открыть [схему в Miro](https://miro.com/welcomeonboard/b1VaSDdsdWpZcHl1NXBKZVBVYlRrbDBHYlZsZ2V0akgzTVZhQlRFT0Fzbml5OGkzYlVNZDVaOGJrQ0dleTYwbHwzNDU4NzY0NTIyODU3ODYzODU2?share_link_id=811292784935) или посмотреть скрины в этой репе.
+
+# Бизнес события
+
+- Вход в аккаунт (Продьюсер: юзер сервис)
+- Создание таски (Продьюсер: таск сервис)
+- Ассайн таски (Продьюсер: таск сервис; Консьюмер: аккаунтинг сервис)
+- Финиш таски (Продьюсер: таск сервис; Консьюмер: аккаунтинг сервис)
+- Выплата и обнуление баланса (Продьюсер: аккаунтинг сервис)
+
+# CUD События
+
+- Обновление баланса (Продьюсер: таск сервис; Консьюмер: аккаунтинг сервис, юзер сервис)
