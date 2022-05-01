@@ -1,0 +1,1 @@
+Можно открыть [схему в Miro](https://miro.com/welcomeonboard/b1VaSDdsdWpZcHl1NXBKZVBVYlRrbDBHYlZsZ2V0akgzTVZhQlRFT0Fzbml5OGkzYlVNZDVaOGJrQ0dleTYwbHwzNDU4NzY0NTIyODU3ODYzODU2?share_link_id=811292784935) или посмотреть скрины в этой репе.
